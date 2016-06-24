@@ -1,0 +1,15 @@
+.brand-logo {
+	padding-left: 1em;
+	margin-left: 1em;
+}
+
+#nav-mobile {
+	margin-right: 1em;
+}
+
+.profile-img {
+	float: left;
+	height: 30%;
+	margin-right: 1.5em;
+	display: block;
+}
